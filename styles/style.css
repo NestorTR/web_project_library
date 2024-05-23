@@ -342,6 +342,7 @@ p {
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
+  padding: auto;
 }
 
 .footer__columns {
@@ -359,7 +360,7 @@ p {
 }
 
 .footer__column_content_social {
-  margin-left: 0px;
+  margin-left: 80px;
 }
 
 .footer__logo {
@@ -381,10 +382,13 @@ p {
 
 .footer__list-item {
   color: #ffffff;
-  margin: 16px 0px 0px 0px;
+  margin: 16px 0px auto 0px;
 }
 
 .footer__column-link {
+  display: flex;
+  align-items: center;
+  column-gap: normal;
   color: white;
   text-decoration: none;
 }
@@ -398,5 +402,5 @@ p {
 .footer__copyright {
   color: #ffffff;
   padding: 0px 0px 60px 80px;
-  margin: 0px;
+  margin: 100px 0px 0px 0px;
 }
