@@ -349,7 +349,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 60px 80px 100px 80px;
+  padding: 60px 80px;
   margin: 0px;
   list-style: none;
 }
@@ -401,6 +401,6 @@ p {
 
 .footer__copyright {
   color: #ffffff;
-  padding: 0px 0px 60px 80px;
-  margin: 0px;
+  margin: 100px 0px 0px 80px;
+  padding-bottom: 60px;
 }
