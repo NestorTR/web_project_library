@@ -350,6 +350,7 @@ p {
   align-items: center;
   padding: 60px 80px 100px 80px;
   margin: 0px;
+  list-style: none;
 }
 
 .footer__column_content_hours {
@@ -396,4 +397,5 @@ p {
 .footer__copyright {
   color: #ffffff;
   padding: 0px 0px 60px 80px;
+  margin: 0px;
 }
