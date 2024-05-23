@@ -382,13 +382,12 @@ p {
 
 .footer__list-item {
   color: #ffffff;
-  margin: 16px 0px 0px 0px;
+  margin-bottom: 16px;
 }
 
 .footer__column-link {
   display: flex;
   align-items: center;
-  column-gap: normal;
   color: white;
   text-decoration: none;
   column-gap: 10px;
