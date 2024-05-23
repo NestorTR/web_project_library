@@ -355,6 +355,7 @@ p {
 
 .footer__column_content_hours {
   margin-left: auto;
+  margin-right: 80px;
 }
 
 .footer__column_content_social {
